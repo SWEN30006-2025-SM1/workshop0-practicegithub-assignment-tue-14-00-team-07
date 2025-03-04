@@ -11,10 +11,10 @@ public class Calculator {
         return 10;
     }
 
-    public int multiply(int a, int b) {
+    //public int multiply(int a, int b) {
         // TODO: Implement this method
-        return 10;
-    }
+      //  return 10;
+    //}
 
     public double divide(int a, int b) {
         // TODO: Implement this method
